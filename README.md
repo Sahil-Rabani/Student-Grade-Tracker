@@ -23,4 +23,6 @@ A console application written in Java that allows tracking students' grades for 
 
 ## Author
 
-This project is for educational purposes and intermediate Java practice.
+Sahil Rabani
+
+This project is for Java practice.
