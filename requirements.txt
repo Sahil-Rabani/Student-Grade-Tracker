@@ -1,0 +1,4 @@
+
+Java SE 8 or higher
+Platform: Console-based
+No external libraries
